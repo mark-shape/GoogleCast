@@ -1,3 +1,3 @@
-# GoogleCastSDK
+# GoogleCast
 
-A description of this package.
+Swift package manager wrapper for XCFramework of the Google Cast SDK
